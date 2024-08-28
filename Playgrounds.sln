@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspDotNet", "Playgrounds\AspDotNet.csproj", "{D94E7F6A-10CA-48D6-B0AB-6C73968FA1E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "TestProject\UnitTests.csproj", "{843A91F3-B4F8-4C3F-BB50-C290A1A7D8DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docker", "Docker\Docker.csproj", "{FB4F79D4-D5B1-49EA-99C2-41E3A7F43D95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D94E7F6A-10CA-48D6-B0AB-6C73968FA1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94E7F6A-10CA-48D6-B0AB-6C73968FA1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94E7F6A-10CA-48D6-B0AB-6C73968FA1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94E7F6A-10CA-48D6-B0AB-6C73968FA1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{843A91F3-B4F8-4C3F-BB50-C290A1A7D8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843A91F3-B4F8-4C3F-BB50-C290A1A7D8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843A91F3-B4F8-4C3F-BB50-C290A1A7D8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843A91F3-B4F8-4C3F-BB50-C290A1A7D8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB4F79D4-D5B1-49EA-99C2-41E3A7F43D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4F79D4-D5B1-49EA-99C2-41E3A7F43D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4F79D4-D5B1-49EA-99C2-41E3A7F43D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4F79D4-D5B1-49EA-99C2-41E3A7F43D95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E4F4BA-C222-4764-96E9-E2B83FF31B55}
+	EndGlobalSection
+EndGlobal
